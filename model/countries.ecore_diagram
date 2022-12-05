@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notation:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.3/notation" xmi:id="_QkN6AGfqEe2_nucRc2tnrw" type="Ecore" measurementUnit="Pixel">
+  <children xmi:type="notation:Shape" xmi:id="_QlByUGfqEe2_nucRc2tnrw" type="2001" fontName="Segoe UI">
+    <children xmi:type="notation:DecorationNode" xmi:id="_QlByUmfqEe2_nucRc2tnrw" type="5001"/>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_QlByU2fqEe2_nucRc2tnrw" type="7001">
+      <styles xmi:type="notation:SortingStyle" xmi:id="_QlByVGfqEe2_nucRc2tnrw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_QlByVWfqEe2_nucRc2tnrw"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_QlByVmfqEe2_nucRc2tnrw" type="7002">
+      <styles xmi:type="notation:SortingStyle" xmi:id="_QlByV2fqEe2_nucRc2tnrw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_QlByWGfqEe2_nucRc2tnrw"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_QlByWWfqEe2_nucRc2tnrw" type="7003">
+      <styles xmi:type="notation:SortingStyle" xmi:id="_QlByWmfqEe2_nucRc2tnrw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_QlByW2fqEe2_nucRc2tnrw"/>
+    </children>
+    <element xmi:type="ecore:EClass" href="countries.ecore#//Country"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_QlByUWfqEe2_nucRc2tnrw" x="360"/>
+  </children>
+  <children xmi:type="notation:Shape" xmi:id="_QlByXGfqEe2_nucRc2tnrw" type="2001" fontName="Segoe UI">
+    <children xmi:type="notation:DecorationNode" xmi:id="_QlByXmfqEe2_nucRc2tnrw" type="5001"/>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_QlByX2fqEe2_nucRc2tnrw" type="7001">
+      <styles xmi:type="notation:SortingStyle" xmi:id="_QlByYGfqEe2_nucRc2tnrw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_QlByYWfqEe2_nucRc2tnrw"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_QlByYmfqEe2_nucRc2tnrw" type="7002">
+      <styles xmi:type="notation:SortingStyle" xmi:id="_QlByY2fqEe2_nucRc2tnrw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_QlByZGfqEe2_nucRc2tnrw"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_QlByZWfqEe2_nucRc2tnrw" type="7003">
+      <styles xmi:type="notation:SortingStyle" xmi:id="_QlByZmfqEe2_nucRc2tnrw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_QlByZ2fqEe2_nucRc2tnrw"/>
+    </children>
+    <element xmi:type="ecore:EClass" href="countries.ecore#//State"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_QlByXWfqEe2_nucRc2tnrw" x="132" y="138"/>
+  </children>
+  <children xmi:type="notation:Shape" xmi:id="_QlByaGfqEe2_nucRc2tnrw" type="2001" fontName="Segoe UI">
+    <children xmi:type="notation:DecorationNode" xmi:id="_QlCZYGfqEe2_nucRc2tnrw" type="5001"/>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_QlCZYWfqEe2_nucRc2tnrw" type="7001">
+      <styles xmi:type="notation:SortingStyle" xmi:id="_QlCZYmfqEe2_nucRc2tnrw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_QlCZY2fqEe2_nucRc2tnrw"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_QlCZZGfqEe2_nucRc2tnrw" type="7002">
+      <styles xmi:type="notation:SortingStyle" xmi:id="_QlCZZWfqEe2_nucRc2tnrw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_QlCZZmfqEe2_nucRc2tnrw"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_QlCZZ2fqEe2_nucRc2tnrw" type="7003">
+      <styles xmi:type="notation:SortingStyle" xmi:id="_QlCZaGfqEe2_nucRc2tnrw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_QlCZaWfqEe2_nucRc2tnrw"/>
+    </children>
+    <element xmi:type="ecore:EClass" href="countries.ecore#//County"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_QlByaWfqEe2_nucRc2tnrw" x="54" y="336"/>
+  </children>
+  <children xmi:type="notation:Shape" xmi:id="_QlCZamfqEe2_nucRc2tnrw" type="2001" fontName="Segoe UI">
+    <children xmi:type="notation:DecorationNode" xmi:id="_QlCZbGfqEe2_nucRc2tnrw" type="5001"/>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_QlCZbWfqEe2_nucRc2tnrw" type="7001">
+      <styles xmi:type="notation:SortingStyle" xmi:id="_QlCZbmfqEe2_nucRc2tnrw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_QlCZb2fqEe2_nucRc2tnrw"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_QlCZcGfqEe2_nucRc2tnrw" type="7002">
+      <styles xmi:type="notation:SortingStyle" xmi:id="_QlCZcWfqEe2_nucRc2tnrw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_QlCZcmfqEe2_nucRc2tnrw"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_QlCZc2fqEe2_nucRc2tnrw" type="7003">
+      <styles xmi:type="notation:SortingStyle" xmi:id="_QlCZdGfqEe2_nucRc2tnrw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_QlCZdWfqEe2_nucRc2tnrw"/>
+    </children>
+    <element xmi:type="ecore:EClass" href="countries.ecore#//City"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_QlCZa2fqEe2_nucRc2tnrw" y="501"/>
+  </children>
+  <children xmi:type="notation:Shape" xmi:id="_QlCZdmfqEe2_nucRc2tnrw" type="2001" fontName="Segoe UI">
+    <children xmi:type="notation:DecorationNode" xmi:id="_QlCZeGfqEe2_nucRc2tnrw" type="5001"/>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_QlCZeWfqEe2_nucRc2tnrw" type="7001">
+      <styles xmi:type="notation:SortingStyle" xmi:id="_QlCZemfqEe2_nucRc2tnrw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_QlCZe2fqEe2_nucRc2tnrw"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_QlCZfGfqEe2_nucRc2tnrw" type="7002">
+      <styles xmi:type="notation:SortingStyle" xmi:id="_QlCZfWfqEe2_nucRc2tnrw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_QlCZfmfqEe2_nucRc2tnrw"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_QlCZf2fqEe2_nucRc2tnrw" type="7003">
+      <styles xmi:type="notation:SortingStyle" xmi:id="_QlCZgGfqEe2_nucRc2tnrw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_QlCZgWfqEe2_nucRc2tnrw"/>
+    </children>
+    <element xmi:type="ecore:EClass" href="countries.ecore#//Governor"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_QlCZd2fqEe2_nucRc2tnrw" x="487" y="300"/>
+  </children>
+  <children xmi:type="notation:Shape" xmi:id="_QlCZgmfqEe2_nucRc2tnrw" type="2001" fontName="Segoe UI">
+    <children xmi:type="notation:DecorationNode" xmi:id="_QlCZhGfqEe2_nucRc2tnrw" type="5001"/>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_QlCZhWfqEe2_nucRc2tnrw" type="7001">
+      <styles xmi:type="notation:SortingStyle" xmi:id="_QlCZhmfqEe2_nucRc2tnrw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_QlCZh2fqEe2_nucRc2tnrw"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_QlCZiGfqEe2_nucRc2tnrw" type="7002">
+      <styles xmi:type="notation:SortingStyle" xmi:id="_QlCZiWfqEe2_nucRc2tnrw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_QlCZimfqEe2_nucRc2tnrw"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_QlCZi2fqEe2_nucRc2tnrw" type="7003">
+      <styles xmi:type="notation:SortingStyle" xmi:id="_QlCZjGfqEe2_nucRc2tnrw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_QlCZjWfqEe2_nucRc2tnrw"/>
+    </children>
+    <element xmi:type="ecore:EClass" href="countries.ecore#//President"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_QlCZg2fqEe2_nucRc2tnrw" x="630" y="138"/>
+  </children>
+  <children xmi:type="notation:Shape" xmi:id="_QlCZjmfqEe2_nucRc2tnrw" type="2001" fontName="Segoe UI">
+    <children xmi:type="notation:DecorationNode" xmi:id="_QlCZkGfqEe2_nucRc2tnrw" type="5001"/>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_QlCZkWfqEe2_nucRc2tnrw" type="7001">
+      <styles xmi:type="notation:SortingStyle" xmi:id="_QlCZkmfqEe2_nucRc2tnrw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_QlCZk2fqEe2_nucRc2tnrw"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_QlCZlGfqEe2_nucRc2tnrw" type="7002">
+      <styles xmi:type="notation:SortingStyle" xmi:id="_QlCZlWfqEe2_nucRc2tnrw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_QlCZlmfqEe2_nucRc2tnrw"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_QlDAcGfqEe2_nucRc2tnrw" type="7003">
+      <styles xmi:type="notation:SortingStyle" xmi:id="_QlDAcWfqEe2_nucRc2tnrw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_QlDAcmfqEe2_nucRc2tnrw"/>
+    </children>
+    <element xmi:type="ecore:EClass" href="countries.ecore#//Commissioner"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_QlCZj2fqEe2_nucRc2tnrw" x="312" y="498"/>
+  </children>
+  <children xmi:type="notation:Shape" xmi:id="_QlDAc2fqEe2_nucRc2tnrw" type="2001" fontName="Segoe UI">
+    <children xmi:type="notation:DecorationNode" xmi:id="_QlDAdWfqEe2_nucRc2tnrw" type="5001"/>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_QlDAdmfqEe2_nucRc2tnrw" type="7001">
+      <styles xmi:type="notation:SortingStyle" xmi:id="_QlDAd2fqEe2_nucRc2tnrw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_QlDAeGfqEe2_nucRc2tnrw"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_QlDAeWfqEe2_nucRc2tnrw" type="7002">
+      <styles xmi:type="notation:SortingStyle" xmi:id="_QlDAemfqEe2_nucRc2tnrw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_QlDAe2fqEe2_nucRc2tnrw"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_QlDAfGfqEe2_nucRc2tnrw" type="7003">
+      <styles xmi:type="notation:SortingStyle" xmi:id="_QlDAfWfqEe2_nucRc2tnrw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_QlDAfmfqEe2_nucRc2tnrw"/>
+    </children>
+    <element xmi:type="ecore:EClass" href="countries.ecore#//Mayor"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_QlDAdGfqEe2_nucRc2tnrw" x="174" y="705"/>
+  </children>
+  <children xmi:type="notation:Shape" xmi:id="_QlDAf2fqEe2_nucRc2tnrw" type="2001" fontName="Segoe UI">
+    <children xmi:type="notation:DecorationNode" xmi:id="_QlDAgWfqEe2_nucRc2tnrw" type="5001"/>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_QlDAgmfqEe2_nucRc2tnrw" type="7001">
+      <styles xmi:type="notation:SortingStyle" xmi:id="_QlDAg2fqEe2_nucRc2tnrw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_QlDAhGfqEe2_nucRc2tnrw"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_QlDAhWfqEe2_nucRc2tnrw" type="7002">
+      <styles xmi:type="notation:SortingStyle" xmi:id="_QlDAhmfqEe2_nucRc2tnrw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_QlDAh2fqEe2_nucRc2tnrw"/>
+    </children>
+    <children xmi:type="notation:BasicCompartment" xmi:id="_QlDAiGfqEe2_nucRc2tnrw" type="7003">
+      <styles xmi:type="notation:SortingStyle" xmi:id="_QlDAiWfqEe2_nucRc2tnrw"/>
+      <styles xmi:type="notation:FilteringStyle" xmi:id="_QlDAimfqEe2_nucRc2tnrw"/>
+    </children>
+    <element xmi:type="ecore:EClass" href="countries.ecore#//Politician"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_QlDAgGfqEe2_nucRc2tnrw" x="738" y="588"/>
+  </children>
+  <styles xmi:type="notation:DiagramStyle" xmi:id="_QkN6AWfqEe2_nucRc2tnrw"/>
+  <element xmi:type="ecore:EPackage" href="countries.ecore#/"/>
+  <edges xmi:type="notation:Connector" xmi:id="_Ql5VAGfqEe2_nucRc2tnrw" type="4003" source="_QlByUGfqEe2_nucRc2tnrw" target="_QlByXGfqEe2_nucRc2tnrw">
+    <children xmi:type="notation:DecorationNode" xmi:id="_Ql58EmfqEe2_nucRc2tnrw" type="6002">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_Ql58E2fqEe2_nucRc2tnrw" x="21" y="12"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_Ql58FGfqEe2_nucRc2tnrw" type="6004">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_Ql58FWfqEe2_nucRc2tnrw" x="3" y="15"/>
+    </children>
+    <styles xmi:type="notation:FontStyle" xmi:id="_Ql58EGfqEe2_nucRc2tnrw" fontName="Segoe UI"/>
+    <element xmi:type="ecore:EReference" href="countries.ecore#//Country/state"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_Ql58EWfqEe2_nucRc2tnrw" points="[0, 0, 101, -60]$[-101, 60, 0, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_QmdVtmfqEe2_nucRc2tnrw" id="(0.32954545454545453,1.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_QmdVt2fqEe2_nucRc2tnrw" id="(0.4968553459119497,0.0)"/>
+  </edges>
+  <edges xmi:type="notation:Connector" xmi:id="_Ql8_YGfqEe2_nucRc2tnrw" type="4003" source="_QlByXGfqEe2_nucRc2tnrw" target="_QlByaGfqEe2_nucRc2tnrw">
+    <children xmi:type="notation:DecorationNode" xmi:id="_Ql8_Y2fqEe2_nucRc2tnrw" type="6002">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_Ql8_ZGfqEe2_nucRc2tnrw" x="25" y="-34"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_Ql8_ZWfqEe2_nucRc2tnrw" type="6004">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_Ql8_ZmfqEe2_nucRc2tnrw" x="-11" y="25"/>
+    </children>
+    <styles xmi:type="notation:FontStyle" xmi:id="_Ql8_YWfqEe2_nucRc2tnrw" fontName="Segoe UI"/>
+    <element xmi:type="ecore:EReference" href="countries.ecore#//State/county"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_Ql8_YmfqEe2_nucRc2tnrw" points="[0, 0, 80, -60]$[-80, 60, 0, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_QmcuoGfqEe2_nucRc2tnrw" id="(0.3333333333333333,1.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_QmcuoWfqEe2_nucRc2tnrw" id="(0.5,0.0)"/>
+  </edges>
+  <edges xmi:type="notation:Connector" xmi:id="_QmBQ0GfqEe2_nucRc2tnrw" type="4003" source="_QlByaGfqEe2_nucRc2tnrw" target="_QlCZamfqEe2_nucRc2tnrw">
+    <children xmi:type="notation:DecorationNode" xmi:id="_QmBQ02fqEe2_nucRc2tnrw" type="6002">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_QmBQ1GfqEe2_nucRc2tnrw" x="7" y="-21"/>
+    </children>
+    <children xmi:type="notation:DecorationNode" xmi:id="_QmBQ1WfqEe2_nucRc2tnrw" type="6004">
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_QmBQ1mfqEe2_nucRc2tnrw" y="60"/>
+    </children>
+    <styles xmi:type="notation:FontStyle" xmi:id="_QmBQ0WfqEe2_nucRc2tnrw" fontName="Segoe UI"/>
+    <element xmi:type="ecore:EReference" href="countries.ecore#//County/city"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_QmBQ0mfqEe2_nucRc2tnrw" points="[0, 0, 0, -60]$[0, 60, 0, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_QmcupGfqEe2_nucRc2tnrw" id="(0.32926829268292684,1.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_QmcupWfqEe2_nucRc2tnrw" id="(0.9384615384615385,0.0)"/>
+  </edges>
+  <edges xmi:type="notation:Connector" xmi:id="_QmEUIGfqEe2_nucRc2tnrw" type="4004" source="_QlCZdmfqEe2_nucRc2tnrw" target="_QlDAf2fqEe2_nucRc2tnrw">
+    <styles xmi:type="notation:FontStyle" xmi:id="_QmEUIWfqEe2_nucRc2tnrw" fontName="Segoe UI"/>
+    <element xsi:nil="true"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_QmEUImfqEe2_nucRc2tnrw" points="[0, 0, 0, -394]$[0, 394, 0, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_QmdVumfqEe2_nucRc2tnrw" id="(0.8342541436464088,1.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_Qmd8wGfqEe2_nucRc2tnrw" id="(0.497737556561086,0.0)"/>
+  </edges>
+  <edges xmi:type="notation:Connector" xmi:id="_QmE7MGfqEe2_nucRc2tnrw" type="4004" source="_QlCZgmfqEe2_nucRc2tnrw" target="_QlDAf2fqEe2_nucRc2tnrw">
+    <styles xmi:type="notation:FontStyle" xmi:id="_QmE7MWfqEe2_nucRc2tnrw" fontName="Segoe UI"/>
+    <element xsi:nil="true"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_QmE7MmfqEe2_nucRc2tnrw" points="[0, 0, 0, -561]$[0, 561, 0, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_Qmd8wWfqEe2_nucRc2tnrw" id="(0.49795918367346936,1.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_Qmd8wmfqEe2_nucRc2tnrw" id="(0.8371040723981901,0.0)"/>
+  </edges>
+  <edges xmi:type="notation:Connector" xmi:id="_QmGJUGfqEe2_nucRc2tnrw" type="4004" source="_QlCZjmfqEe2_nucRc2tnrw" target="_QlDAf2fqEe2_nucRc2tnrw">
+    <styles xmi:type="notation:FontStyle" xmi:id="_QmGJUWfqEe2_nucRc2tnrw" fontName="Segoe UI"/>
+    <element xsi:nil="true"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_QmGJUmfqEe2_nucRc2tnrw" points="[0, 0, -78, -227]$[78, 60, 0, -167]$[78, 227, 0, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_Qmd8w2fqEe2_nucRc2tnrw" id="(0.5,1.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_Qmd8xGfqEe2_nucRc2tnrw" id="(0.18552036199095023,0.0)"/>
+  </edges>
+  <edges xmi:type="notation:Connector" xmi:id="_QmHXcGfqEe2_nucRc2tnrw" type="4004" source="_QlDAc2fqEe2_nucRc2tnrw" target="_QlDAf2fqEe2_nucRc2tnrw">
+    <styles xmi:type="notation:FontStyle" xmi:id="_QmHXcWfqEe2_nucRc2tnrw" fontName="Segoe UI"/>
+    <element xsi:nil="true"/>
+    <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_QmHXcmfqEe2_nucRc2tnrw" points="[0, 0, -122, -60]$[122, 60, 0, 0]"/>
+    <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_QmdVsmfqEe2_nucRc2tnrw" id="(0.5,1.0)"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_QmdVs2fqEe2_nucRc2tnrw" id="(0.09049773755656108,0.0)"/>
+  </edges>
+</notation:Diagram>

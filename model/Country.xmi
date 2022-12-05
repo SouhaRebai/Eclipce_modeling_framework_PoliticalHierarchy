@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ASCII"?>
+<countries:Country xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:countries="platform:/resource/EMF_modeling_project/model/countries.ecore" name="United States of America " yearFounded="1266">
+  <state name="California" population="112000" totalArea="5.47841247E8">
+    <county name="San Diego" countyNumber="123" largestCity="Nashville">
+      <city name="Nashville" population="564711" isStateCapital="true"/>
+      <city name="Ochlahoma" population="4512478"/>
+    </county>
+    <county name="San Fransisco" countyNumber="45" largestCity="Wiomi">
+      <city name="Wiomi" isStateCapital="true"/>
+    </county>
+  </state>
+  <state/>
+</countries:Country>

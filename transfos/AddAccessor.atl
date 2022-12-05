@@ -1,0 +1,74 @@
+-- @path countries=/EMF_modeling_project/model/countries.ecore
+
+module AddAccessorRefining;
+create cible : countries from source : countries;
+
+-- ****************************************************************
+-- Helpers utiliés par la transformation 
+
+-- retourne la chaine courante avec premier caractère en majuscule
+helper context String def: firstToUpper() : String =
+	self.substring(1, 1).toUpper() + self.substring(2, self.size());
+-- ********************************************************************
+-- Duplication de tous les éléments du modèle à l'identique, sauf les attributs 
+-- car il faut d'abord v�rifier s'ils ont un setter ou un getter pour les générer
+-- en complément.
+rule duplicateCoutry {
+from
+	sourceClass : countries!Country
+to
+	cibleClass : countries!Country (
+		name <- sourceClass.name,
+		yearFounded <- sourceClass.yearFounded,
+		isPartOfUN <- sourceClass.isPartOfUN,
+		state <- sourceClass.state,
+		president <- sourceClass.president
+	)
+	do{
+		('On duplique le pay: '+sourceClass.name).println();
+	}
+}
+
+rule duplicatePresident  {
+from
+	sourceClass : countries!President
+to
+	cibleClass : countries!President (
+		presidentNumber <- sourceClass.presidentNumber,
+		eligibleForReelection <- sourceClass.eligibleForReelection,
+		secretCodename <- sourceClass.secretCodename)
+		do {
+		('On duplique le président : '+sourceClass.secretCodename).println();
+			
+		}
+}
+-- **********************************************************************
+-- Duplication des attributs, avec création au besoin des méthodes getter
+-- et setter associées. 4 règles selon que l'attribut possède :
+-- 1) Déjà son getter et son setter
+-- 2) Un setter mais pas de getter
+-- 3) Un getter mais pas de setter
+-- 4) Ni setter ni getter
+
+rule countryHasAll {
+from 
+	attSource : countries!Country (
+		attSource.hasSetter() and attSource.hasGetter())
+to
+	attTarget : countries!Attribute (
+		name <- attSource.name,
+		yearFounded <- attSource.yearFounded,
+		isPartOfUN <- attSource.isPartOfUN,
+		president <- attSource.president
+	)
+}
+rule presidentHasAll {
+	from 
+	attSource : countries!President (
+		attSource.hasSetter() and attSource.hasGetter())
+to
+	attTarget : countries!President (
+		cecretCodename <- attSource.cecretCodename
+	)
+
+}
